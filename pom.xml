@@ -12,7 +12,7 @@
     <groupId>guru.sfg.brewery</groupId>
 
     <artifactId>mssc-inventory-failover</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>mssc-inventory-failover</name>
 
